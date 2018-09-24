@@ -1,0 +1,28 @@
+{
+  "name": "NYT-React",
+  "version": "1.0.0",
+  "description": "An article-search web application implementing the full MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/must-git-good/NYT-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/must-git-good/NYT-React/issues"
+  },
+  "homepage": "https://github.com/must-git-good/NYT-React#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "node": "^10.11.0",
+    "react": "^16.5.2",
+    "react-router-dom": "^4.3.1"
+  }
+}
